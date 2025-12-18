@@ -5,19 +5,20 @@
     { "domain": "tmd.edu.kg", "registrationDate": "2025-08-08", "expirationDate": "2026-08-08", "system": "CCTLD.KG", "systemURL": "https://www.cctld.kg/en/" },   
     { "domain": "i65u.me", "registrationDate": "2025-01-28", "expirationDate": "2026-01-28", "system": "NameCheap", "systemURL": "https://www.namecheap.com/" },
     { "domain": "i65u", "registrationDate": "2025-01-28", "expirationDate": "2026-05-05", "system": "万网", "systemURL": "https://www.aliyun.com/" },
-    { "domain": "sojan.dpdns.org", "registrationDate": "2025-02-05", "expirationDate": "2026-02-05", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "doncic.dpdns.org", "registrationDate": "2025-02-05", "expirationDate": "2026-02-05", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "sojan.dpdns.org", "registrationDate": "2025-02-05", "expirationDate": "2027-02-05", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "doncic.dpdns.org", "registrationDate": "2025-02-05", "expirationDate": "2027-02-05", "system": "US.KG", "systemURL": "https://nic.us.kg" },
     { "domain": "mtproxy.dpdns.org", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg" },
     { "domain": "mtproto.dpdns.org", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "71828.dpdns.org", "registrationDate": "2024-12-19", "expirationDate": "2025-12-19", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "4142.dpdns.org", "registrationDate": "2024-12-21", "expirationDate": "2025-12-21", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "huang.xx.kg", "registrationDate": "2025-05-07", "expirationDate": "2026-05-07", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "077.xx.kg", "registrationDate": "2025-05-07", "expirationDate": "2026-05-07", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "yes.qzz.io", "registrationDate": "2025-05-07", "expirationDate": "2026-05-07", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "out.qzz.io", "registrationDate": "2025-05-08", "expirationDate": "2026-05-08", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "end.qzz.io", "registrationDate": "2025-05-13", "expirationDate": "2026-05-13", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "uuid.qzz.io", "registrationDate": "2025-05-13", "expirationDate": "2026-05-13", "system": "US.KG", "systemURL": "https://nic.us.kg" },
-    { "domain": "mlb.qzz.io", "registrationDate": "2025-05-15", "expirationDate": "2026-05-15", "system": "US.KG", "systemURL": "https://nic.us.kg" }
+    { "domain": "71828.dpdns.org", "registrationDate": "2024-12-19", "expirationDate": "2027-12-19", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "4142.dpdns.org", "registrationDate": "2024-12-21", "expirationDate": "2027-12-21", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "huang.xx.kg", "registrationDate": "2025-05-07", "expirationDate": "2027-05-07", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "077.xx.kg", "registrationDate": "2025-05-07", "expirationDate": "2027-05-07", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "yes.qzz.io", "registrationDate": "2025-05-07", "expirationDate": "2027-05-07", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "out.qzz.io", "registrationDate": "2025-05-08", "expirationDate": "2027-05-08", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "end.qzz.io", "registrationDate": "2025-05-13", "expirationDate": "2027-05-13", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "uuid.qzz.io", "registrationDate": "2025-05-13", "expirationDate": "2027-05-13", "system": "US.KG", "systemURL": "https://nic.us.kg" },
+    { "domain": "mlb.qzz.io", "registrationDate": "2025-05-15", "expirationDate": "2027-05-15", "system": "US.KG", "systemURL": "https://nic.us.kg" }
     
 ]
+
 
